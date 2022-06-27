@@ -1,0 +1,13 @@
+{
+  "name": "wn-2",
+  "version": "1.0.0",
+  "private": true,
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "lerna": "^5.0.0"
+  },
+  "workspaces": [
+    "packages/*"
+  ]
+}
